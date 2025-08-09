@@ -7,4 +7,4 @@ function pattern3(n) {
         }
     }
 
-pattern3(5)    
+pattern3(5)    // You can change the number here
