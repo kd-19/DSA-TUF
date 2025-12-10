@@ -4,8 +4,6 @@ function  anagramStrings(s, t) {
         }
 
         return s.split('').sort().join('') === t.split('').sort().join('');
-
-
     }
 
 const s = "anagram" , t = "nagaram"
